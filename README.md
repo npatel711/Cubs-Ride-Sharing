@@ -1,2 +1,2 @@
-# Cubs-Ride-Sharing
+# UC-Ride-Sharing
 ETL Project
